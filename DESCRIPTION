@@ -1,7 +1,7 @@
 Package: RandomWalkRestartMH
 Type: Package
 Title: Random walk with restart on multiplex and heterogeneous Networks
-Version: 1.25.0
+Version: 1.25.1
 Date: 2021-08-11
 Authors@R: c(
     person(given = "Alberto",
@@ -47,3 +47,4 @@ Suggests:
 VignetteBuilder: knitr
 NeedsCompilation: no
 Packaged: 2018-04-09 20:31:46 UTC; alvaldeolivas
+PackageStatus: Deprecated
